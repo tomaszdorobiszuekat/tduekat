@@ -1,0 +1,10 @@
+C:\Users\donip\source\repos\tduekat1\uekatzwinne\uekatzwinne\bin\Debug\uekatzwinne.exe.config
+C:\Users\donip\source\repos\tduekat1\uekatzwinne\uekatzwinne\bin\Debug\uekatzwinne.exe
+C:\Users\donip\source\repos\tduekat1\uekatzwinne\uekatzwinne\bin\Debug\uekatzwinne.pdb
+C:\Users\donip\source\repos\tduekat1\uekatzwinne\uekatzwinne\obj\Debug\uekatzwinne.csprojAssemblyReference.cache
+C:\Users\donip\source\repos\tduekat1\uekatzwinne\uekatzwinne\obj\Debug\uekatzwinne.Form1.resources
+C:\Users\donip\source\repos\tduekat1\uekatzwinne\uekatzwinne\obj\Debug\uekatzwinne.Properties.Resources.resources
+C:\Users\donip\source\repos\tduekat1\uekatzwinne\uekatzwinne\obj\Debug\uekatzwinne.csproj.GenerateResource.cache
+C:\Users\donip\source\repos\tduekat1\uekatzwinne\uekatzwinne\obj\Debug\uekatzwinne.csproj.CoreCompileInputs.cache
+C:\Users\donip\source\repos\tduekat1\uekatzwinne\uekatzwinne\obj\Debug\uekatzwinne.exe
+C:\Users\donip\source\repos\tduekat1\uekatzwinne\uekatzwinne\obj\Debug\uekatzwinne.pdb
