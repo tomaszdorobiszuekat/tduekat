@@ -1,0 +1,7 @@
+Stworzenie aplikacji 
+Dodanie przysiku
+Dodanie checkbox
+Dodadanie okna powitalnego
+Dodanie licencji
+Dodanie pliku readme
+Dodanie changelogu
